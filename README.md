@@ -1,0 +1,2 @@
+# Numerical-Simulation-Melting-of-Ice-using-OpenFOAM
+This case demonstrates the melting of ice. It’s a example of phase change process. The present case uses a multi-region approach to simulate the phase change process. The simulation is carried out in OpenFOAM v1906 using the solver \textbf{chtMultiRegionFoam} and the phase change is handled by \textbf{solidficationMeltingSource} source term. The geometry is a 2-D pipe and the flow is laminar and transient. The volume fraction of melting water is obtained from the simulation and is analyzed.
