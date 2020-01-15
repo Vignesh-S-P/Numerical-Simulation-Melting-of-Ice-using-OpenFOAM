@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#importing Mesh
+ideasUnvToFoam domain.unv 
+
+#set inital condition 
+cp -r 0.orig/ 0
+
+#spliting mesh into regions
+splitMeshRegions -cellZonesOnly -overwrite
+
+#removing original Mesh
+rm -r constant/polyMesh
+
+#change patch type for each region
+changeDictionary -region solidZone
+changeDictionary -region fluidZone
+

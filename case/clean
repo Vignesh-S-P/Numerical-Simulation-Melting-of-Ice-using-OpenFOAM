@@ -1,0 +1,5 @@
+#!/bin/bash
+
+foamCleanTutorials
+rm -r 0/
+find . -type d -name polyMesh -exec rm -r {} +
