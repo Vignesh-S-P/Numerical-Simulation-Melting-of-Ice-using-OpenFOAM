@@ -1,0 +1,151 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{OpenFOAM}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labeltitlesource}{title}
+      \field{title}{OpenFOAM Extended Code Guide Class reference on solidificationMeltingSource}
+      \verb{urlraw}
+      \verb https://www.openfoam.com/documentation/guides/latest/api/classFoam_1_1fv_1_1solidificationMeltingSource.html
+      \endverb
+      \verb{url}
+      \verb https://www.openfoam.com/documentation/guides/latest/api/classFoam_1_1fv_1_1solidificationMeltingSource.html
+      \endverb
+    \endentry
+    \entry{Mahdi}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=1e7582401e733d13a80682df646e19d6}{%
+           family={rad},
+           familyi={r\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod},
+           prefix={torabi},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e7582401e733d13a80682df646e19d6}
+      \strng{fullhash}{1e7582401e733d13a80682df646e19d6}
+      \strng{bibnamehash}{1e7582401e733d13a80682df646e19d6}
+      \strng{authorbibnamehash}{1e7582401e733d13a80682df646e19d6}
+      \strng{authornamehash}{1e7582401e733d13a80682df646e19d6}
+      \strng{authorfullhash}{1e7582401e733d13a80682df646e19d6}
+      \field{sortinit}{r}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-60845-7}
+      \field{month}{01}
+      \field{title}{solidificationMeltingSource: A Built-in fvOption in OpenFOAM® for Simulating Isothermal Solidification: Selected Papers of the 11th Workshop}
+      \field{year}{2019}
+      \field{pages}{455\bibrangedash 464}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-319-60846-4_32
+      \endverb
+    \endentry
+    \entry{Swaminathan}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cd7c58aed1b804ea3e2a5524389eef85}{%
+           family={Swaminathan},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3ebfc72c583a10ad4f7daae4b99f5567}{%
+           family={Voller},
+           familyi={V\bibinitperiod},
+           given={V.\bibnamedelimi R.},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{11596f1037b798ac064f0d224d2e86b0}
+      \strng{fullhash}{11596f1037b798ac064f0d224d2e86b0}
+      \strng{bibnamehash}{11596f1037b798ac064f0d224d2e86b0}
+      \strng{authorbibnamehash}{11596f1037b798ac064f0d224d2e86b0}
+      \strng{authornamehash}{11596f1037b798ac064f0d224d2e86b0}
+      \strng{authorfullhash}{11596f1037b798ac064f0d224d2e86b0}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the present work, a general implicit source-based enthalpy method is presented for the analysis of solidification systems. The proposed approach is both robust and efficient. The performance of the method is illustrated by application to a number of problems taken from recent metallurgical literature.}
+      \field{issn}{1543-1916}
+      \field{journaltitle}{Metallurgical Transactions B}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{A general enthalpy method for modeling solidification processes}
+      \field{volume}{23}
+      \field{year}{1992}
+      \field{pages}{651\bibrangedash 664}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/BF02649725
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF02649725
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF02649725
+      \endverb
+    \endentry
+    \entry{Voller}{article}{}
+      \name{author}{2}{}{%
+        {{hash=999b2fedc32ec81018eabb91ee83115c}{%
+           family={Voller},
+           familyi={V\bibinitperiod},
+           given={V.R.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2195cee14f013a2c14d9c7d0a88a8c50}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2c68840d6e5be91dbc264c1a5ff9f96}
+      \strng{fullhash}{c2c68840d6e5be91dbc264c1a5ff9f96}
+      \strng{bibnamehash}{c2c68840d6e5be91dbc264c1a5ff9f96}
+      \strng{authorbibnamehash}{c2c68840d6e5be91dbc264c1a5ff9f96}
+      \strng{authornamehash}{c2c68840d6e5be91dbc264c1a5ff9f96}
+      \strng{authorfullhash}{c2c68840d6e5be91dbc264c1a5ff9f96}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0017-9310}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{number}{8}
+      \field{title}{A fixed grid numerical modelling methodology for convection-diffusion mushy region phase-change problems}
+      \field{volume}{30}
+      \field{year}{1987}
+      \field{pages}{1709\bibrangedash 1719}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0017-9310(87)90317-6
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/0017931087903176
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/0017931087903176
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
